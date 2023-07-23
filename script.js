@@ -36,10 +36,10 @@ $(document).ready(function () {
   // typing text animation script
   var typed = new Typed(".typing", {
     strings: [
-      "Front End Developer",
+      "Full Stack Developer",
       "Photographer",
       "Editor",
-      "Designer",
+      "Graphic Designer",
       "Freelancer",
     ],
     typeSpeed: 100,
@@ -49,10 +49,10 @@ $(document).ready(function () {
 
   var typed = new Typed(".typing-2", {
     strings: [
-      "Front End Developer",
+      "Full Stack Developer",
       "Photographer",
       "Editor",
-      "Designer",
+      "Graphic Designer",
       "Freelancer",
     ],
     typeSpeed: 100,
